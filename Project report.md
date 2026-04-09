@@ -63,7 +63,7 @@ Feature importance analysis showed that:
 
 * Age and behavioral scores contributed significantly to the prediction
 
-*(Insert screenshot of accuracy and graph here)*
+
 
 ---
 
